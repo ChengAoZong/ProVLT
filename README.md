@@ -37,9 +37,8 @@ After removing duplicates, we annotate 857 video sequences with 456 different En
 
 * Examples
 
-<center><img src="https://gitee.com/zong-chengao/typora_pic/raw/master/202503111426311.png" alt="example1_crop" style="zoom:50%;" /><center>
+<img src="https://gitee.com/zong-chengao/typora_pic/raw/master/202503111507057.png" alt="example1_crop" style="zoom: 50%;" />
 
-<center><img src="https://gitee.com/zong-chengao/typora_pic/raw/master/202503111428457.png" alt="example2_crop" style="zoom:50%;" /><center>
 
 ### 4. Acknowledgements
 
