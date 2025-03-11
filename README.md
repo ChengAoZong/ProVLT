@@ -33,7 +33,7 @@
 
 After removing duplicates, we annotate 857 video sequences with 456 different English words. The annotated descriptions focus on expressing the attributes and spatial location of the objects,  as illustrated in Figure below. The outer circle represents the number of annotated videos for each benchmark, while the inner circle depicts the frequency of words.
 
-<img src="example_images/analysis.png" alt="example1_crop" style="zoom: 50%;" />
+<img src="example_images/analysis.png" alt="example1_crop" style="zoom: 33%;" />
 
 
 * Examples
