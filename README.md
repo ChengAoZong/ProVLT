@@ -35,7 +35,7 @@ After removing duplicates, we annotate 857 video sequences with 456 different En
 
 <center>
 <img src="example_images/analysis.png" alt="example1_crop" width="800" />
-<center>
+</center>
 
 * Examples
 
